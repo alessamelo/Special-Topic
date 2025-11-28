@@ -8,7 +8,7 @@ Two parallel versions of the dataset were created:
 2. **Anonymized Dataset (Privacy-Aware Preprocessing)**
 
 Both datasets are later compared through a classification model (MLP) to measure how anonymization impacts performance.
-
+In adition to, a complete synthetized dataset was generated using the Anonymized dataset as reference
 ---
 
 #  **Project Files**
@@ -19,7 +19,7 @@ Both datasets are later compared through a classification model (MLP) to measure
 ├── Clean.ipynb       # Classic preprocessing without any privacy methods
 ├── EDA.ipynb         # Exploratory Data Analysis: distributions, imbalance, correlations
 ├── Training.ipynb    # MLP model training, SMOTE balancing, metrics evaluation
-└── README.md         # Project documentation
+└── Synthetized       #To generate the synthetized data
 ```
 
 
