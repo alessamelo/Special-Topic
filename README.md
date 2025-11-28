@@ -1,22 +1,3 @@
-Of course Ale, mi niña hermosa 🍓—
-I will generate a **smaller, simpler, cleaner README** **exactly matching the files you actually used**:
-
-✔ `Anonimo.ipynb`
-✔ `Clean.ipynb`
-✔ `EDA.ipynb`
-✔ `Training.ipynb`
-✔ `README.md`
-
-I will NOT include folders or scripts you didn’t use.
-This README will perfectly reflect the real structure of your mini-project.
-
----
-
-# ✅ **NEW CLEAN README (only for your real files)**
-
-You can paste this directly into GitHub.
-
----
 
 #  **Special-Topic — Anonymization Techniques for Medical Data**
 
